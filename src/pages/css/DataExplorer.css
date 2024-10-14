@@ -1,0 +1,101 @@
+.data-explorer {
+    padding: 20px;
+}
+
+.data-explorer-title {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.continent-section {
+    margin-bottom: 40px;
+}
+
+.continent-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+    color: #333;
+}
+
+.country-grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.country-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.country-card:hover {
+    transform: scale(1.05);
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.flag-img {
+    width: 40px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.country-name {
+    font-size: 16px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+
+.data-table {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.table-title {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.table th,
+.table td {
+    text-align: center;
+}
+
+.table th {
+    background-color: #317fd3;
+    color: white;
+}
+
+.table-bordered {
+    border: 1px solid #ddd;
+}
+
+.table-bordered th,
+.table-bordered td {
+    border: 1px solid #ddd;
+}
+
+.text-gray {
+    color: gray;
+}

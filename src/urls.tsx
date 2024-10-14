@@ -1,0 +1,9 @@
+export const GeopostcodesLogo = '/front-end/images/Geopostcodes-logo-header.svg';
+export const dataExplorerLink = '/front-end/images/data_explorer.svg';
+export const downloadCenterLink = '/front-end/images/dowload_center.svg';
+export const KBLink = '/front-end/images/kb.svg';
+export const MapExplorerLink = '/front-end/images/map_explorer.webp';
+export const LandingPageLink = '/front-end/images/landing_page_screenshot.png';
+export const DataLink = './front-end/data/countries.json'
+export const Profile = './front-end/images/pfp.png'
+export const VideoLink = './front-end/videos/video-2.mp4';

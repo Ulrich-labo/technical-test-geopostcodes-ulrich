@@ -1,0 +1,1932 @@
+[
+  {
+    "continent": "North America",
+    "iso": "CA",
+    "name": "Canada",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Canada",
+    "continentCode": 10
+  },
+  {
+    "continent": "North America",
+    "iso": "MX",
+    "name": "Mexico",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Mexico",
+    "continentCode": 10
+  },
+  {
+    "continent": "North America",
+    "iso": "US",
+    "name": "United States",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "USA",
+    "continentCode": 10
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "AD",
+    "name": "Andorra",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Andorra",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "AT",
+    "name": "Austria",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Austria",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "BE",
+    "name": "Belgium",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Belgium",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "DK",
+    "name": "Denmark",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Denmark",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "FI",
+    "name": "Finland",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Finland",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "FR",
+    "name": "France",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "France",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "DE",
+    "name": "Germany",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Germany",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "GR",
+    "name": "Greece",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Greece",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "IS",
+    "name": "Iceland",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Iceland",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "IE",
+    "name": "Ireland",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Ireland",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "IT",
+    "name": "Italy",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Italy",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "LI",
+    "name": "Liechtenstein",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Liechtenstein",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "LU",
+    "name": "Luxembourg",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Luxembourg",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "MT",
+    "name": "Malta",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Malta",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "MC",
+    "name": "Monaco",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Monaco",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "NL",
+    "name": "Netherlands",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Netherlands",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "NO",
+    "name": "Norway",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Norway",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "PT",
+    "name": "Portugal",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Portugal",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "SM",
+    "name": "San Marino",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "San_Marino",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "ES",
+    "name": "Spain",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Spain",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "SE",
+    "name": "Sweden",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Sweden",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "CH",
+    "name": "Switzerland",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Switzerland",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "GB",
+    "name": "United Kingdom",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "UK",
+    "continentCode": 20
+  },
+  {
+    "continent": "Western Europe",
+    "iso": "VA",
+    "name": "Vatican",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Vatican",
+    "continentCode": 20
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "AL",
+    "name": "Albania",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Albania",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "AM",
+    "name": "Armenia",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Armenia",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "AZ",
+    "name": "Azerbaijan",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Azerbaijan",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "BY",
+    "name": "Belarus",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Belarus",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "BA",
+    "name": "Bosnia and Herzegovina",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Bosnia_Herzegovina",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "BG",
+    "name": "Bulgaria",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Bulgaria",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "HR",
+    "name": "Croatia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Croatia",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "CY",
+    "name": "Cyprus",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Cyprus",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "CZ",
+    "name": "Czechia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Czech_Republic",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "EE",
+    "name": "Estonia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Estonia",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "GE",
+    "name": "Georgia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Georgia",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "HU",
+    "name": "Hungary",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Hungary",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "XK",
+    "name": "Kosovo",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Kosovo",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "LV",
+    "name": "Latvia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Latvia",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "LT",
+    "name": "Lithuania",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Lithuania",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "MD",
+    "name": "Moldova",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Moldova",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "ME",
+    "name": "Montenegro",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Montenegro",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "PL",
+    "name": "Poland",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Poland",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "MK",
+    "name": "Republic of North Macedonia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Macedonia",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "RO",
+    "name": "Romania",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Romania",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "RU",
+    "name": "Russia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Russia",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "RS",
+    "name": "Serbia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Serbia",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "SK",
+    "name": "Slovakia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Slovakia",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "SI",
+    "name": "Slovenia",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Slovenia",
+    "continentCode": 30
+  },
+  {
+    "continent": "Eastern Europe",
+    "iso": "UA",
+    "name": "Ukraine",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Ukraine",
+    "continentCode": 30
+  },
+  {
+    "continent": "Asia",
+    "iso": "AF",
+    "name": "Afghanistan",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Afghanistan",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "BD",
+    "name": "Bangladesh",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Bangladesh",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "BT",
+    "name": "Bhutan",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Bhutan",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "BN",
+    "name": "Brunei Darussalam",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Brunei",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "KH",
+    "name": "Cambodia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Cambodia",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "CN",
+    "name": "China",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "China",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "IN",
+    "name": "India",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "India",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "ID",
+    "name": "Indonesia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Indonesia",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "JP",
+    "name": "Japan",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Japan",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "KZ",
+    "name": "Kazakhstan",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Kazakhstan",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "KG",
+    "name": "Kyrgyzstan",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Kyrgyzstan",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "LA",
+    "name": "Laos",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Laos",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "MY",
+    "name": "Malaysia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Malaysia",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "MV",
+    "name": "Maldives",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Maldives",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "MN",
+    "name": "Mongolia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Mongolia",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "MM",
+    "name": "Myanmar",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Burma",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "NP",
+    "name": "Nepal",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Nepal",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "KP",
+    "name": "North Korea",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "North_Korea",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "PK",
+    "name": "Pakistan",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Pakistan",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "PH",
+    "name": "Philippines",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Philippines",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "SG",
+    "name": "Singapore",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Singapore",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "KR",
+    "name": "South Korea",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "South_Korea",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "LK",
+    "name": "Sri Lanka",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Sri_Lanka",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "TJ",
+    "name": "Tajikistan",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Tajikistan",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "TH",
+    "name": "Thailand",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Thailand",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "TL",
+    "name": "Timor-Leste",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Timor_Leste",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "TM",
+    "name": "Turkmenistan",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Turkmenistan",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "UZ",
+    "name": "Uzbekistan",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Uzbekistan",
+    "continentCode": 40
+  },
+  {
+    "continent": "Asia",
+    "iso": "VN",
+    "name": "Vietnam",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Vietnam",
+    "continentCode": 40
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "AG",
+    "name": "Antigua and Barbuda",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Antigua_and_Barbuda",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "AR",
+    "name": "Argentina",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Argentina",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "BS",
+    "name": "Bahamas",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Bahamas",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "BB",
+    "name": "Barbados",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Barbados",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "BZ",
+    "name": "Belize",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Belize",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "BO",
+    "name": "Bolivia",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Bolivia",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "BR",
+    "name": "Brazil",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Brazil",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "CL",
+    "name": "Chile",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Chile",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "CO",
+    "name": "Colombia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Colombia",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "CR",
+    "name": "Costa Rica",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Costa_Rica",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "CU",
+    "name": "Cuba",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Cuba",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "DM",
+    "name": "Dominica",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Dominica",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "DO",
+    "name": "Dominican Republic",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Dominican_Republic",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "EC",
+    "name": "Ecuador",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Ecuador",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "SV",
+    "name": "El Salvador",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "El_Salvador",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "GD",
+    "name": "Grenada",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Grenada",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "GT",
+    "name": "Guatemala",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Guatemala",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "GY",
+    "name": "Guyana",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Guyana",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "HT",
+    "name": "Haiti",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Haiti",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "HN",
+    "name": "Honduras",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Honduras",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "JM",
+    "name": "Jamaica",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Jamaica",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "NI",
+    "name": "Nicaragua",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Nicaragua",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "PA",
+    "name": "Panama",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Panama",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "PY",
+    "name": "Paraguay",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Paraguay",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "PE",
+    "name": "Peru",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Peru",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "KN",
+    "name": "Saint Kitts and Nevis",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Saint_Kitts_and_Nevis",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "LC",
+    "name": "Saint Lucia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Saint_Lucia",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "St_Vincent_and_Grenadines",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "SR",
+    "name": "Suriname",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Suriname",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "TT",
+    "name": "Trinidad and Tobago",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": true,
+    "url": "Trinidad_and_Tobago",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "UY",
+    "name": "Uruguay",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Uruguay",
+    "continentCode": 50
+  },
+  {
+    "continent": "South & Central America",
+    "iso": "VE",
+    "name": "Venezuela",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Venezuela",
+    "continentCode": 50
+  },
+  {
+    "continent": "Middle East",
+    "iso": "BH",
+    "name": "Bahrain",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Bahrain",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "IR",
+    "name": "Iran",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": true,
+    "url": "Iran",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "IQ",
+    "name": "Iraq",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Iraq",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "IL",
+    "name": "Israel",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Israel",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "JO",
+    "name": "Jordan",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Jordan",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "KW",
+    "name": "Kuwait",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Kuwait",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "LB",
+    "name": "Lebanon",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": true,
+    "url": "Lebanon",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "OM",
+    "name": "Oman",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Oman",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "PS",
+    "name": "Palestine",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Gaza",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "QA",
+    "name": "Qatar",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Qatar",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "SA",
+    "name": "Saudi Arabia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Saudi_Arabia",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "SY",
+    "name": "Syria",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Syria",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "TR",
+    "name": "Türkiye",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Turkey",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "AE",
+    "name": "United Arab Emirates",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "UAE",
+    "continentCode": 60
+  },
+  {
+    "continent": "Middle East",
+    "iso": "YE",
+    "name": "Yemen",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Yemen",
+    "continentCode": 60
+  },
+  {
+    "continent": "Africa",
+    "iso": "DZ",
+    "name": "Algeria",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Algeria",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "AO",
+    "name": "Angola",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Angola",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "BJ",
+    "name": "Benin",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Benin",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "BW",
+    "name": "Botswana",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Botswana",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "BF",
+    "name": "Burkina Faso",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Burkina_Faso",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "BI",
+    "name": "Burundi",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Burundi",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "CM",
+    "name": "Cameroon",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Cameroon",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "CV",
+    "name": "Cape Verde",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Cape_Verde",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "CF",
+    "name": "Central African Republic",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Central_African_Republic",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "TD",
+    "name": "Chad",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Chad",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "KM",
+    "name": "Comoros",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Comoros",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "CG",
+    "name": "Congo-Brazzaville",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Congo",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "CD",
+    "name": "Congo, Democratic Republic",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "CongoDR",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "CI",
+    "name": "Côte d'Ivoire",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Cote_Ivoire",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "DJ",
+    "name": "Djibouti",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Djibouti",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "EG",
+    "name": "Egypt",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Egypt",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "GQ",
+    "name": "Equatorial Guinea",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Equatorial_Guinea",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "ER",
+    "name": "Eritrea",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Eritrea",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "SZ",
+    "name": "Eswatini",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Eswatini",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "ET",
+    "name": "Ethiopia",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Ethiopia",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "GA",
+    "name": "Gabon",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Gabon",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "GM",
+    "name": "Gambia",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Gambia",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "GH",
+    "name": "Ghana",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Ghana",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "GN",
+    "name": "Guinea",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Guinea",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "GW",
+    "name": "Guinea-Bissau",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Guinea_Bissau",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "KE",
+    "name": "Kenya",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Kenya",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "LS",
+    "name": "Lesotho",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Lesotho",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "LR",
+    "name": "Liberia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": true,
+    "url": "Liberia",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "LY",
+    "name": "Libya",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Libya",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "MG",
+    "name": "Madagascar",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Madagascar",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "MW",
+    "name": "Malawi",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Malawi",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "ML",
+    "name": "Mali",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Mali",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "MR",
+    "name": "Mauritania",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Mauritania",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "MU",
+    "name": "Mauritius",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Mauritius",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "MA",
+    "name": "Morocco",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Morocco",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "MZ",
+    "name": "Mozambique",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Mozambique",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "NA",
+    "name": "Namibia",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Namibia",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "NE",
+    "name": "Niger",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Niger",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "NG",
+    "name": "Nigeria",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Nigeria",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "RW",
+    "name": "Rwanda",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Rwanda",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "ST",
+    "name": "São Tomé and Príncipe",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Sao_Tome_and_Principe",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "SN",
+    "name": "Senegal",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Senegal",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "SC",
+    "name": "Seychelles",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Seychelles",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "SL",
+    "name": "Sierra Leone",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Sierra_Leone",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "SO",
+    "name": "Somalia",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Somalia",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "ZA",
+    "name": "South Africa",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "South_Africa",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "SS",
+    "name": "South Sudan",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "South_Sudan",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "SD",
+    "name": "Sudan",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Sudan",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "TZ",
+    "name": "Tanzania",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Tanzania",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "TG",
+    "name": "Togo",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Togo",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "TN",
+    "name": "Tunisia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Tunisia",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "UG",
+    "name": "Uganda",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Uganda",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "ZM",
+    "name": "Zambia",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Zambia",
+    "continentCode": 70
+  },
+  {
+    "continent": "Africa",
+    "iso": "ZW",
+    "name": "Zimbabwe",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Zimbabwe",
+    "continentCode": 70
+  },
+  {
+    "continent": "Oceania-Pacific",
+    "iso": "AU",
+    "name": "Australia",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Australia",
+    "continentCode": 80
+  },
+  {
+    "continent": "Oceania-Pacific",
+    "iso": "FJ",
+    "name": "Fiji",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Fiji",
+    "continentCode": 80
+  },
+  {
+    "continent": "Oceania-Pacific",
+    "iso": "KI",
+    "name": "Kiribati",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Kiribati",
+    "continentCode": 80
+  },
+  {
+    "continent": "Oceania-Pacific",
+    "iso": "NR",
+    "name": "Nauru",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Nauru",
+    "continentCode": 80
+  },
+  {
+    "continent": "Oceania-Pacific",
+    "iso": "NZ",
+    "name": "New Zealand",
+    "noPostalCode": false,
+    "limited": false,
+    "notAvailable": false,
+    "url": "New_Zealand",
+    "continentCode": 80
+  },
+  {
+    "continent": "Oceania-Pacific",
+    "iso": "PG",
+    "name": "Papua New Guinea",
+    "noPostalCode": false,
+    "limited": true,
+    "notAvailable": false,
+    "url": "Papua_New_Guinea",
+    "continentCode": 80
+  },
+  {
+    "continent": "Oceania-Pacific",
+    "iso": "WS",
+    "name": "Samoa",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Samoa",
+    "continentCode": 80
+  },
+  {
+    "continent": "Oceania-Pacific",
+    "iso": "SB",
+    "name": "Solomon Islands",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Solomon_Islands",
+    "continentCode": 80
+  },
+  {
+    "continent": "Oceania-Pacific",
+    "iso": "TO",
+    "name": "Tonga",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Tonga",
+    "continentCode": 80
+  },
+  {
+    "continent": "Oceania-Pacific",
+    "iso": "TV",
+    "name": "Tuvalu",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Tuvalu",
+    "continentCode": 80
+  },
+  {
+    "continent": "Oceania-Pacific",
+    "iso": "VU",
+    "name": "Vanuatu",
+    "noPostalCode": true,
+    "limited": false,
+    "notAvailable": false,
+    "url": "Vanatu",
+    "continentCode": 80
+  }
+]

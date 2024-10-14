@@ -1,0 +1,32 @@
+#Nav {
+    background-color: rgb(84, 84, 180);
+    list-style-type: none;
+}
+
+.nav-item {
+    margin-right: 15px;
+}
+
+.navbar .form-control {
+    margin-right: 200px;
+}
+
+.dropdown {
+    margin-left: 15px;
+}
+
+.start-btn {
+    background-color: #d5006d;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    transition: background-color 0.3s ease;
+}
+
+.start-btn:hover {
+    background-color: #b0004f;
+    cursor: pointer;
+}
