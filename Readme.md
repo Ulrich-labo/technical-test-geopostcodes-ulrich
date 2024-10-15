@@ -16,7 +16,7 @@ A React application built with Create React App. Follow these steps to run local
    ```
 2. **Navigate to the project directory**
    ```bash
-    cd project-name
+    cd technical-test-geopostcodes-ulrich-master
 
    ```
 3. **Install dependencies**
